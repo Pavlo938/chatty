@@ -1,0 +1,20 @@
+[
+  {"uuid":"a0c462f0-935a-47a1-9eba-b24487754d22",
+  "chatId":"f19aec8c-eee1-4cf2-bd15-a2495e2fe2b6",
+  "senderId":1,
+  "receiverId":2,
+  "text":"message2",
+  "timestampMillis":1568209207311},
+
+  {"uuid":"75c81ef8-426d-4031-af8a-226a1e55c51b",
+  "chatId":"f19aec8c-eee1-4cf2-bd15-a2495e2fe2b6",
+  "senderId":2,"receiverId":1,
+  "text":"message3","timestampMillis":1568209237706},
+
+  {"uuid":"a921f8e8-1029-4cce-aa7f-623be46c2270",
+    "chatId":"f19aec8c-eee1-4cf2-bd15-a2495e2fe2b6",
+    "senderId":1,
+    "receiverId":2,
+    "text":"message4",
+    "timestampMillis":1568209282763}
+]
